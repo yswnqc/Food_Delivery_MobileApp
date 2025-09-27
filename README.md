@@ -8,7 +8,8 @@
 
 ### Customer APP
 > The gif is too big, need some time to load.
-![customerApp](./Gif1.gif)
+![customerApp](./Gif5.gif)
+![customerApp](./Gif6.gif)
 
 ### Restaurant APP
 ![restaurantApp](./Gif3.gif)
