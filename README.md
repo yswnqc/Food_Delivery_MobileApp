@@ -6,6 +6,8 @@
 
 > Or you can check here, the [App Pages:Functions Summary](./App%20Pages:Functions%20Summary.pdf) PDF to have overall review of our project.
 
+![customerApp](Gif1.gif)
+
 ## [INSTALLATION MANUAL](./INSTALLATION%20MANUAL.pdf)
 
 > To be used for frontend and Apps explore and test.
