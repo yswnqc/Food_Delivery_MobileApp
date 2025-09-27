@@ -1,17 +1,8 @@
-# **Project:** P88 - Food Delivery Mobile Application (Food2U)
+# Food Delivery Mobile Application (Food2U)
 
-## **Team:** 9900 - W13A - CAKE - StayFresh
+> This is a school offered project that we can not share the original code.
 
-| Full name    | Email address           | Student ID | Role                              |
-| ------------ | ----------------------- | ---------- | --------------------------------- |
-| Jiakang Lai  | z5522802@ad.unsw.edu.au | z5522802   | Scrum Master & Backend Developer  |
-| Siyu Miao    | z5223714@ad.unsw.edu.au | z5223714   | Product Owner & Backend Developer |
-| Yang Shi     | z5335411@ad.unsw.edu.au | z5335411   | Backend Developer                 |
-| Chen Duan    | z5455152@ad.unsw.edu.au | z5455152   | Frontend Developer                |
-| Jinling Han  | z5493549@ad.unsw.edu.au | z5493549   | Frontend Developer                |
-| Jiaxin Zhang | z5491108@ad.unsw.edu.au | z5491108   | Frontend Manager                  |
-
----
+## Gifs
 
 ## [INSTALLATION MANUAL](./INSTALLATION%20MANUAL.pdf)
 
@@ -32,8 +23,8 @@
 #### 1) Install Docker Desktop
 
 - Go to [https://www.docker.com/products/docker-desktop/](https://www.docker.com/products/docker-desktop/), then click **Download Docker Desktop** and choose the one that suits your system.
-  ![alt text](images/image-6.png)
-  ![alt text](images/image-2.png)
+  ![alt text](image-6.png)
+  ![alt text](image-2.png)
 - After finishing installation, keep it running.
 
 #### 2) iOS Simulator (macOS only)
@@ -45,10 +36,10 @@
 
 - Install **Android Studio** from [https://developer.android.com/studio](https://developer.android.com/studio). Click Download and choose the one that suits your system.
 
-![alt text](images/image-1.png)
+![alt text](image-1.png)
 
 - After installation: **Android Studio → New Project → Device Manager → Create AVD** (Pixel 8, API 34).
-  ![AVD setting](images/image.png)
+  ![AVD setting](image.png)
 
 #### 4) Install Java 21 and maven
 
