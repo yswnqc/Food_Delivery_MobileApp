@@ -7,9 +7,6 @@
 > Or you can check here, the [App Pages:Functions Summary](./App%20Pages:Functions%20Summary.pdf) PDF to have overall review of our project.
 
 ### Customer APP
-
-> The gif is too big, need some time to load.
-
 ![customerApp](./Gif5.gif)
 ![customerApp](./Gif6.gif)
 
