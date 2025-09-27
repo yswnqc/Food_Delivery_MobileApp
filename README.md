@@ -1,8 +1,10 @@
 # Food Delivery Mobile Application (Food2U)
 
-> This is a school offered project that we can not share the original code.
+> This is a school offered project that we can not share the original code. But you can check the other works that we have done below.
 
-## Gifs
+## App Demo gifs
+
+> You can check here the [App Pages:Functions Summary](./App%20Pages:Functions%20Summary.pdf)
 
 ## [INSTALLATION MANUAL](./INSTALLATION%20MANUAL.pdf)
 
