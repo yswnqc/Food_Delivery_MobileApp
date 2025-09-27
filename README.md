@@ -6,9 +6,16 @@
 
 > Or you can check here, the [App Pages:Functions Summary](./App%20Pages:Functions%20Summary.pdf) PDF to have overall review of our project.
 
+### Customer APP
 ![customerApp](./Gif1.gif)
+
+### Restaurant APP
 ![restaurantApp](./Gif3.gif)
+
+### Driver APP
 ![driverApp](./Gif4.gif)
+
+### Admin Website
 ![adminWeb](./Gif2.gif)
 
 ## [INSTALLATION MANUAL](./INSTALLATION%20MANUAL.pdf)
